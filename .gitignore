@@ -1,0 +1,10 @@
+# Ignore image files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.svg
+
+# Keep Python files
+!*.py
