@@ -9,6 +9,7 @@ venv310/
 *.gif
 *.bmp
 *.svg
+*.csv
 
 # Keep Python files
 !*.py
